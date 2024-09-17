@@ -1,7 +1,6 @@
 ![detect_🚗🚚🛑🚦](https://github.com/user-attachments/assets/2e49e13c-f090-4f02-91dd-9a15632eb8a9)
 
-In this repo you can find a model that is trained for detecting cars, trucks, road signs and traffic lights in the game "Euro Truck Simulator 2". The model is trained using the road map that you can 
-in authors' profile called **"yourOwnObjectDetectionModel"** It is using the AI model yolov4-tiny
+In this repo you can find a model that is trained for detecting cars, trucks, road signs and traffic lights in the game "Euro Truck Simulator 2". The model is trained using the road map that you can find in authors' profile called **"yourOwnObjectDetectionModel"** It is using the AI model yolov4-tiny
 
 ![](https://github.com/DenizSoyhan/Euro-Truck-Simulator-2-Object-Detection-Model/blob/main/vlc-record-2024-09-17-16h58m06s-window--ezgif.com-resize.gif)
 
