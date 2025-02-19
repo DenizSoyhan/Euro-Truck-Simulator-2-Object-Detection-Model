@@ -4,7 +4,7 @@ In this repo you can find a model that is trained for detecting cars, trucks, ro
 
 ![](https://github.com/DenizSoyhan/Euro-Truck-Simulator-2-Object-Detection-Model/blob/main/vlc-record-2024-09-17-16h58m06s-window--ezgif.com-resize.gif)
 
-# 0) Preparation:
+## 0) Preparation:
 You will need some tools to get everything working so please get these dependencies figured out before we start:
 >* jupyter
 >* opencv-python
@@ -13,7 +13,7 @@ You will need some tools to get everything working so please get these dependenc
 >* pywin32
 >* pynput
 
-# 1) Start Using
+## 1) Start Using
 Open up the ipynb file in the repo on a jupyter notebook and also start up your game. Then follow the instructions in the file and you can run the cells one by one. Don't forget to change the windowName
 parameter in the script! Here are some screenshot from our model:
 
@@ -35,7 +35,6 @@ parameter in the script! Here are some screenshot from our model:
 <img src="https://github.com/user-attachments/assets/45a3bae5-4c64-4a35-b0b8-2e0079ede92b" width="" />
 </p><br>
 
-
-
-
-
+## Authors
+- [@DenizSoyhan](https://github.com/DenizSoyhan)
+- [@msoneri](https://github.com/msoneri)
